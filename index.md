@@ -1,7 +1,10 @@
 ---
 title: Chris Tapper
 ---
+# Chris Tapper
 
-Hi, I'm Chris. I'm a full-stack developer, currently freelancing while travelling the world.
+Hi, I'm Chris!
 
-If you'd like to work with me, shoot me an email here: hi@cjtapper.com
+By day, I'm a software engineer at [O(10](https://www.0of1.com), specialising in Python, Django, and React.
+
+If you'd like to work with me, shoot me an email here: mail@cjtapper.com
