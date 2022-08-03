@@ -10,4 +10,4 @@ We provide technical guidance and engineering resources to early stage startups 
 
 Outside of work, I'm interested in cooking, espresso, reading, and self-sufficiency.
 
-If you'd like to work with me, shoot me an email here: [mailto:mail@cjtapper.com]
+If you'd like to work with me, shoot me an email here: [mailto:mail@cjtapper.com](mailto:mail@cjtapper.com)
