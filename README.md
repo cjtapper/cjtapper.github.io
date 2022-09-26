@@ -1,5 +1,5 @@
 ## Chris Tapper
-This repo contains the code for [www.cjtapper.com](www.cjtapper.com)
+This repo contains the code for [www.cjtapper.com](https://www.cjtapper.com)
 
 My goal is to keep the HTML as minimal as possible, while still being valid HTML.
 
