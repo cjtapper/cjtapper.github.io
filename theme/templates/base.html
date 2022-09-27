@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang={% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}>
+{% block head %}
+<meta charset=utf-8>
+<meta name=viewport content=initial-scale=1,minimum-scale=1,width=device-width>
+<title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+<style>
+  html {
+    background: hsl(0deg 0% 100%);
+    font-family: system-ui,sans-serif;
+  }
+  body {
+    max-width: 960px;
+    margin: auto;
+    padding: 0 1rem;
+  }
+  a {
+    color: hsl(3deg 71% 52%);
+  }
+  a:hover {
+    text-decoration: inherit;
+  }
+  @media(prefers-color-scheme:dark) {
+    html {
+      filter: invert(1) hue-rotate(180deg);
+    }
+  }
+</style>
+{% endblock head %}
+{% block body %}
+<h1>{{ SITENAME }}</h1>
+{% block content %}{% endblock %}
+{% endblock body %}
