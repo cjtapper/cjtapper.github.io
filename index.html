@@ -16,6 +16,11 @@
   a:hover {
     text-decoration: inherit;
   }
+  @media(prefers-color-scheme:dark) {
+    html {
+      filter: invert(1) hue-rotate(180deg)!important;
+    }
+  }
 </style>
 
 <h1>Chris Tapper</h1>
