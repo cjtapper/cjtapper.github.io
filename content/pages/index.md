@@ -6,7 +6,7 @@ I’m a software engineer specialising in Python, Django, and React.
 I live in Canberra, Australia with my wife and dog.
 
 By day, I'm co-founder & software consultant at [O(1)](https://0of1.com).
-We provide technical guidance and engineering resources to early stage startups to help bring their ideas to fruition.
+We provide product & technical guidance and engineering resources to early stage startups to help bring their ideas to fruition.
 
 Outside of work, I’m interested in cooking, coffee, reading sci-fi & fantasy, and self-sufficiency.
 
