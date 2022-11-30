@@ -8,6 +8,6 @@ I live in Canberra, Australia with my wife and dog.
 By day, I'm co-founder & software consultant at [O(1)](https://0of1.com).
 We provide product & technical guidance and engineering resources to early stage startups to help bring their ideas to fruition.
 
-Outside of work, I’m interested in cooking, coffee, reading sci-fi & fantasy, and self-sufficiency.
+Outside of work, I’m interested in cooking, coffee, reading sci-fi & fantasy, and sustainability/self-sufficiency.
 
 If you’d like to work with me, or just want to say hi, shoot me an email here: [mail@cjtapper.com](mailto:mail@cjtapper.com)
