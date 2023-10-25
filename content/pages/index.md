@@ -3,11 +3,10 @@ URL:
 save_as: index.html
 
 I’m a software engineer specialising in Python, Django, and React.
-I live in Canberra, Australia with my wife and dog, Finn.
+I live in Canberra, Australia with my wife and dog.
 
-By day, I'm co-founder & software consultant at [O(1)](https://0of1.com).
-We provide product & technical guidance and engineering resources to early stage startups to help bring their ideas to fruition.
+By day, I'm a Senior Software Engineer at [Zepto Payments](https://www.zepto.com.au).
 
-Outside of work, I’m interested in cooking, coffee, travelling, reading sci-fi & fantasy, and sustainability/self-sufficiency.
+Outside of work, I’m interested in cooking, coffee, reading sci-fi & fantasy, and spending time outdoors.
 
 If you’d like to work with me, or just want to say hi, shoot me an email here: [mail@cjtapper.com](mailto:mail@cjtapper.com)
