@@ -3,9 +3,9 @@ URL:
 save_as: index.html
 
 I’m a software engineer specialising in Python, Django, and React.
-I live in Canberra, Australia with my wife and dog.
+I live on the south coast of NSW, Australia with my wife and dog.
 
-By day, I'm a Senior Software Engineer at [Zepto Payments](https://www.zepto.com.au).
+By day, I'm Lead Software Engineer at [Supply Chain Warehouses](https://www.supplychainwarehouses.com).
 
 Outside of work, I’m interested in cooking, coffee, reading sci-fi, and spending time outdoors.
 
