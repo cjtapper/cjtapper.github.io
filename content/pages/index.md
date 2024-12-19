@@ -10,3 +10,8 @@ By day, I'm Lead Software Engineer at [Supply Chain Warehouses](https://www.supp
 Outside of work, I’m interested in cooking, coffee, reading sci-fi, and spending time outdoors.
 
 If you’d like to work with me, or just want to say hi, shoot me an email here: [mail@cjtapper.com](mailto:mail@cjtapper.com)
+
+## Links
+- [GitHub](https://github.com/cjtapper)
+- [LinkedIn](https://www.linkedin.com/in/cjtapper/)
+- [Mastodon](https://fosstodon.org/@cjtapper)
