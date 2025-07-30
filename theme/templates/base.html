@@ -4,30 +4,23 @@
 <meta charset=utf-8>
 <meta name=viewport content="initial-scale=1,minimum-scale=1,width=device-width">
 <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-<style>
-  html {
-    background: hsl(0deg 0% 100%);
-    font-family: system-ui,sans-serif;
-  }
-  body {
-    max-width: 960px;
-    margin: auto;
-    padding: 0 1rem;
-  }
-  a {
-    color: hsl(3deg 71% 52%);
-  }
-  a:hover {
-    text-decoration: inherit;
-  }
-  @media(prefers-color-scheme:dark) {
-    html {
-      filter: invert(1) hue-rotate(180deg);
-    }
-  }
-</style>
+<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/styles.css" />
 {% endblock head %}
+<body class="center bg-white border-1 p-1 bs my-2 overflow-hidden">
 {% block body %}
-<h1>{{ SITENAME }}</h1>
+  <header><h1>{{ SITENAME }}</h1></header>
 {% block content %}{% endblock %}
 {% endblock body %}
+<hr class="solid">
+<footer class="cluster jc-between">
+    &copy; cjtapper 202X. Meticulously crafted in the Shoalhaven.
+    <div class="cluster compact">
+      {% if DEV %}
+        <div class="chip warning">DEV</div>
+      {% else %}
+        <div class="chip success">PROD</div>
+      {% endif %}
+      <div class="chip">{{ VERSION  }}</div>
+    </div>
+</footer>
+</body>
