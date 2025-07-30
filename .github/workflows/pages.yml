@@ -40,7 +40,7 @@ jobs:
       - name: Build with Pelican
         run: python -m pelican -o './_site' -s "./publishconf.py"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
