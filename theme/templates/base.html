@@ -11,13 +11,13 @@
   <header><h1>{{ SITENAME }}</h1></header>
 {% block content %}{% endblock %}
 {% endblock body %}
-<footer class="cluster jc-between">
-    &copy; cjtapper 202X. Meticulously crafted in the Shoalhaven.
-    <div class="cluster compact">
+<footer class="cluster">
+    &copy; cjtapper 2025. All rights reserved. Made in Australia.
+    <div class="cluster compact ml-auto">
       {% if DEV %}
         <div class="chip warning">DEV</div>
       {% else %}
-        <div class="chip success">PROD</div>
+        <div class="chip primary">PROD</div>
       {% endif %}
       <div class="chip">{{ VERSION  }}</div>
     </div>
