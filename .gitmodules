@@ -1,0 +1,3 @@
+[submodule "theme/static/technica"]
+	path = theme/static/technica
+	url = git@github.com:cjtapper/technica.git
