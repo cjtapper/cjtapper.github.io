@@ -3,7 +3,6 @@ URL:
 save_as: index.html
 
 ## About
----
 I’m a software engineer specialising in Python, Django, and React.
 I live on the south coast of NSW, Australia with my wife and dog.
 
@@ -13,7 +12,7 @@ Outside of work, I’m interested in cooking, coffee, reading sci-fi, and spendi
 
 If you’d like to work with me, or just want to say hi, shoot me an email here: [mail@cjtapper.com](mailto:mail@cjtapper.com)
 
-## Links
 ---
+## Links
 - [GitHub](https://github.com/cjtapper)
 - [LinkedIn](https://www.linkedin.com/in/cjtapper/)
